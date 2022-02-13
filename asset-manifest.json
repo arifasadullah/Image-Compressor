@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Image-Compressor/static/css/main.aff29575.css",
-    "main.js": "/Image-Compressor/static/js/main.e9ed3bcf.js",
+    "main.css": "/Image-Compressor/static/css/main.bafdacf4.css",
+    "main.js": "/Image-Compressor/static/js/main.90a55155.js",
     "static/media/hero1.svg": "/Image-Compressor/static/media/hero1.bbadd9167a2bcf17be669abd3285879f.svg",
     "static/media/hero2.svg": "/Image-Compressor/static/media/hero2.fffd5bb71426a29bc8601fa300b403c4.svg",
     "static/media/hero3.svg": "/Image-Compressor/static/media/hero3.e9a2cac161d269b2ffedad60ac9d26eb.svg",
     "index.html": "/Image-Compressor/index.html",
-    "main.aff29575.css.map": "/Image-Compressor/static/css/main.aff29575.css.map",
-    "main.e9ed3bcf.js.map": "/Image-Compressor/static/js/main.e9ed3bcf.js.map"
+    "main.bafdacf4.css.map": "/Image-Compressor/static/css/main.bafdacf4.css.map",
+    "main.90a55155.js.map": "/Image-Compressor/static/js/main.90a55155.js.map"
   },
   "entrypoints": [
-    "static/css/main.aff29575.css",
-    "static/js/main.e9ed3bcf.js"
+    "static/css/main.bafdacf4.css",
+    "static/js/main.90a55155.js"
   ]
 }
