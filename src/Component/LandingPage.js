@@ -50,7 +50,7 @@ const LandingPage = () => {
     imageCompression(originalImage, options).then((x) => {
       output = x;
       let outImgSize = Math.ceil(output.size / 1024);
-      console.log(outImgSize);
+
       setCompressedImageSize(outImgSize);
       const downloadLink = URL.createObjectURL(output); //Generating blob file--->
       setOriginalImageFile(false);

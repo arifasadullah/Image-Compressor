@@ -56,3 +56,12 @@ p {
   height: 400px;
   margin: 50px;
 }
+
+@media only screen and (max-width: 480px) {
+  .uploaded_show {
+    display: none;
+  }
+  .compressed_show {
+    display: none;
+  }
+}
