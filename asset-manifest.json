@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Image-compressor/static/css/main.aff29575.css",
-    "main.js": "/Image-compressor/static/js/main.da94ddab.js",
-    "static/media/hero1.svg": "/Image-compressor/static/media/hero1.bbadd9167a2bcf17be669abd3285879f.svg",
-    "static/media/hero2.svg": "/Image-compressor/static/media/hero2.fffd5bb71426a29bc8601fa300b403c4.svg",
-    "static/media/hero3.svg": "/Image-compressor/static/media/hero3.e9a2cac161d269b2ffedad60ac9d26eb.svg",
-    "index.html": "/Image-compressor/index.html",
-    "main.aff29575.css.map": "/Image-compressor/static/css/main.aff29575.css.map",
-    "main.da94ddab.js.map": "/Image-compressor/static/js/main.da94ddab.js.map"
+    "main.css": "/Image-Compressor/static/css/main.aff29575.css",
+    "main.js": "/Image-Compressor/static/js/main.e9ed3bcf.js",
+    "static/media/hero1.svg": "/Image-Compressor/static/media/hero1.bbadd9167a2bcf17be669abd3285879f.svg",
+    "static/media/hero2.svg": "/Image-Compressor/static/media/hero2.fffd5bb71426a29bc8601fa300b403c4.svg",
+    "static/media/hero3.svg": "/Image-Compressor/static/media/hero3.e9a2cac161d269b2ffedad60ac9d26eb.svg",
+    "index.html": "/Image-Compressor/index.html",
+    "main.aff29575.css.map": "/Image-Compressor/static/css/main.aff29575.css.map",
+    "main.e9ed3bcf.js.map": "/Image-Compressor/static/js/main.e9ed3bcf.js.map"
   },
   "entrypoints": [
     "static/css/main.aff29575.css",
-    "static/js/main.da94ddab.js"
+    "static/js/main.e9ed3bcf.js"
   ]
 }
